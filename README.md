@@ -1,2 +1,2 @@
-# bruh-what-this
+# practice
 Class Example 
